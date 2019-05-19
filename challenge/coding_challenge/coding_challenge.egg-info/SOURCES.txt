@@ -1,0 +1,5 @@
+coding_challenge.egg-info/PKG-INFO
+coding_challenge.egg-info/SOURCES.txt
+coding_challenge.egg-info/dependency_links.txt
+coding_challenge.egg-info/requires.txt
+coding_challenge.egg-info/top_level.txt
